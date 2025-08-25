@@ -5,4 +5,6 @@ Contrainte: Structure imprimable format A4 Paysage, tableaux humains avec titres
 Compatible peu de données éparpillées et ingérables.  
 Apache Licence v2.0  
 Implications de la licence: Citer l'auteur dans les copies et dérivations.  
-@Dracchingan/Sens, Github, 2025 - $date_actuelle.  
+https://www.apache.org/licenses/LICENSE-2.0
+@Dracchingan/Sens, Github, 2025 - $date_actuelle.
+
