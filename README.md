@@ -1,6 +1,7 @@
 # Sens
 Le projet Sens est constitué de feuilles de calcul / templates / modèles prête à l'emploi extension. On utilise l'extension OpenDocument Spreadsheet (.ods} pour exporter le projet sur Google Docs ou toute plateforme en-ligne de feuilles de calcul permettant de réaliser facilement et gratuitement sa comptabilité personnelle et auto-entrepreneur.  
-+ Remplace un logiciel de comptabilité.  
++ Remplace un logiciel de comptabilité.
++ Avec fonctions qui font une partie des calculs à votre place.  
 + Imprimable sur feuille A4 format Paysage (Page 01: A à I, 1 à 30) pour vérification.  
 + Compatibles impôts personnels et entreprise en France.  
 + Compatible lecture et écriture humaine.  
@@ -15,8 +16,8 @@ Le projet Sens est constitué de feuilles de calcul / templates / modèles prêt
 ++ Sauvegarder au fur et à mesure.  
 + Non compatible exportation des données vers d'autres plateformes à moins qu'un scripte reconnaisse les cases et transfère les données vers les cases d'un logiciel.  
 + Annuel. Compatible binational. Compatible international. Gratuit. Made in France.  
-+ Toujours possible des bugs d'exportation de mise en forme.   
-++ Pensez à garder un double de vos fichiers et de ne pas mettre em ligne toute information sensible.  
++ Toujours possible des bugs d'exportation de mise en forme.
++ Pensez à garder un double de vos fichiers et de ne pas mettre em ligne toute information sensible.  
 ## PHASE 1 Comptabilité personnelle  
 ### Templates Sens Comptabilite personnelle  
 * SensSalaires  
