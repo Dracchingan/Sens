@@ -15,7 +15,7 @@ Le projet Sens est constitué de feuilles de calcul / templates / modèles Googl
 + Compatibilité limitée pour édition hors sur ligne LibreOffice Calc ou sur tout logiciel de bureautique permettant d'importer des feuilles de calcul ODS en raison du fait que les traductions automatiques de code sont défectueuses (2025).  
 ++ Double clic gauche pour ouvrir le fichier ODS.  
 ++ LibreOffice Calc > Fichier > Ouvrir ou Clic droit > Ouvrir avec pour ouvrir un fichier si l'extension n'est pas associée.  
-++ Contraintes: Google Docs en français avec code en anglais et ponctuation française, partage des codes à corriger si usage de LibreOffice Calc en français (2008-2025) ou Excel en français (anciens codes 2007-2025).  
+++ Contraintes: Google Docs en français avec code en anglais et ponctuation française, partage des codes à corriger si usage de LibreOffice Calc en français (2008-2025) ou Excel matriciel en français (anciens codes 2007-2025).  
 + Non compatible exportation des données vers d'autres plateformes à moins qu'un scripte reconnaisse les cases et transfère les données vers les cases d'un logiciel.
 + Toujours possible des bugs d'exportation de mise en forme.  
 + Annuel. Compatible binational. Compatible international. Gratuit. Made in France.  
