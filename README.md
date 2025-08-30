@@ -1,9 +1,9 @@
 # Sens
 Le projet Sens est constitué de feuilles de calcul / templates / modèles Google Docs prête à l'emploi. On utilise l'extension OpenDocument Spreadsheet (.ods} pour importer le projet sur Google Docs pour réaliser facilement et gratuitement sa comptabilité personnelle et auto-entrepreneur. 
-+ Remplace un logiciel de comptabilit.  
++ Remplace un logiciel de comptabilité.  
 + Avec fonctions et rappel du nom des cases du début du tableau, pour gain de temps en calculs et lecture. Les fonctions ignorent les cases vides et texte, pas besoin de mettre 0 partout, il y a aussi un rappel couleurs.  
 + Imprimable sur feuille A4 format Paysage (Page 01: A à I, 1 à 30) pour vérification.  
-+ Compatibles impôts personnels et entreprise en France.  
++ Compatibles impôts personnels et entreprise en France. Le premier programme avec cases d'impôts françaises et logique d'imposition française.  
 + Compatible lecture et écriture humaine, pas lecture et écriture machine, pas de tableaux infinis incompréhensibles.  
 ++ Si bug d'accélération matérielle et désactiver les Performances qui contiennent l'accélèration matèrielle.
 + Zoom sur Google Docs: CTRL+0 100%, CTRL+ Zoom in, CTRL- Zoom out.  
@@ -35,6 +35,7 @@ Le projet Sens est constitué de feuilles de calcul / templates / modèles Googl
 Apache Licence v2.0    
 Implications de la licence: Citer l'auteur et la provenance @Dracchingan/Sens dans les copies et dérivations.  
 Conçu avec l'aide précieuse de l'IA ChatGPT.  
+Feuilles de calcul sans agrément officiel.
 https://www.apache.org/licenses/LICENSE-2.0  
 @Dracchingan/Sens, Github, 2025 - $date_actuelle.
   
