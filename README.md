@@ -35,8 +35,8 @@ Le projet Sens est constitué de feuilles de calcul / templates / modèles Googl
 Apache Licence v2.0    
 Implications de la licence: Citer l'auteur et la provenance @Dracchingan/Sens dans les copies et dérivations.  
 Conçu avec l'aide précieuse de l'IA ChatGPT.  
-Feuilles de calcul sans agrément officiel.
-https://www.apache.org/licenses/LICENSE-2.0  
-@Dracchingan/Sens, Github, 2025 - $date_actuelle.
+Feuilles de calcul sans agrément officiel.  
+Copyrights: https://www.apache.org/licenses/LICENSE-2.0  
+@Dracchingan/Sens, Github, 2025 - $date_actuelle.  
   
 
