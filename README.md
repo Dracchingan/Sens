@@ -31,13 +31,13 @@ Le projet Sens est constitué de feuilles de calcul / templates / modèles Googl
 ### ANNEE Sens Comptabilite personnelle  
 * SensSalaires  
 * SensBQusage  
-* SensBQsensible    
+* SensBQsensible
+
+  Bientõt disponible !!! 
   
 Apache Licence v2.0    
 Implications de la licence: Citer l'auteur et la provenance @Dracchingan/Sens dans les copies et dérivations.  
 Conçu avec l'aide précieuse de l'IA ChatGPT.  
 Feuilles de calcul sans agrément officiel.  
 Copyrights: https://www.apache.org/licenses/LICENSE-2.0  
-@Dracchingan/Sens, Github, 2025 - $date_actuelle.  
-  
-
+@Dracchingan/Sens, Github, 2025 - $date_actuelle.
