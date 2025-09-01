@@ -35,9 +35,19 @@ Le projet Sens est constitué de feuilles de calcul / templates / modèles Googl
 
   Bientõt disponible !!! 
   
-Apache Licence v2.0    
-Implications de la licence: Citer l'auteur et la provenance @Dracchingan/Sens dans les copies et dérivations.  
-Conçu avec l'aide précieuse de l'IA ChatGPT.  
-Feuilles de calcul sans agrément officiel.  
-Copyrights: https://www.apache.org/licenses/LICENSE-2.0  
-@Dracchingan/Sens, Github, 2025 - $date_actuelle.
+Sens – Templates de comptabilité personnelle et auto-entrepreneur  
+Copyright: **@Dracchingan/Sens, Github, 2025**  
+Licence :  
+- Les documents et templates peuvent être utilisés à titre personnel ou professionnel (usage commercial autorisé).  
+- Il est **strictement interdit de revendre, redistribuer ou proposer à la vente** tout ou partie de ce projet.  
+- Attribution obligatoire : mentionner @Dracchingan/Sens dans toute copie ou dérivation.  
+- Partage de modifications autorisé uniquement si la version dérivée respecte les mêmes conditions.  
+
+- Scripts / fonctions : Apache Licence 2.0  
+  → Attribution obligatoire  
+  → Usage libre (modification autorisée), mais la redistribution payante du projet complet est interdite.
+
+⚠️ Attention :
+- Feuilles de calcul sans agrément officiel
+- Ne pas mettre en ligne d’informations personnelles sensibles
+- Conçu avec l’aide de ChatGPT
