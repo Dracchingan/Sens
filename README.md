@@ -36,11 +36,13 @@ Le projet Sens est constitué de feuilles de calcul / templates / modèles Googl
   Bientõt disponible !!! 
   
 Sens – Templates de comptabilité personnelle et auto-entrepreneur  
-Copyright: **@Dracchingan/Sens, Github, 2025**  
+Copyright © 2025  
+Personne physique : **@Dracchingan/Sens, Github, 2025**  
+Auto-entrepreneur : **Faie Turritopsis Dohrnii; Intergalatica**  
 Licence :  
 - Les documents et templates peuvent être utilisés à titre personnel ou professionnel (usage commercial autorisé).  
 - Il est **strictement interdit de revendre, redistribuer ou proposer à la vente** tout ou partie de ce projet.  
-- Attribution obligatoire : mentionner @Dracchingan/Sens dans toute copie ou dérivation.  
+- Attribution obligatoire : mentionner **@Dracchingan/Sens** dans toute copie ou dérivation.  
 - Partage de modifications autorisé uniquement si la version dérivée respecte les mêmes conditions.  
 
 - Scripts / fonctions : Apache Licence 2.0  
