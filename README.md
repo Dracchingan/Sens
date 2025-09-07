@@ -35,7 +35,7 @@ Licence :
 - Attribution obligatoire : mentionner **@Dracchingan/Sens** dans toute copie ou dérivation.  
 - Partage de modifications autorisé uniquement si la version dérivée respecte les mêmes conditions.  
 
-- Scripts / fonctions : Apache Licence 2.0  
+- Scripts / fonctions : ** Apache Licence 2.0 **  
   → Attribution obligatoire  
   → Usage libre (modification autorisée), mais la redistribution payante du projet complet est interdite.
 
