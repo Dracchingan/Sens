@@ -23,6 +23,23 @@ Le projet Sens est constitué de feuilles de calcul / templates / modèles Googl
 
 ## DEUXIEME PARTIE LIBRE OFFICE CALC (à venir) (.ODS non compatible Google Sheets)
 
+  Bientõt disponible !!! 
 
+## Copyrights: Sens – Templates de comptabilité personnelle et auto-entrepreneur 
 
- 
+Personne physique : **© All rights reserved, @Dracchingan/Sens, Github, 2025**  
+Auto-entrepreneur : **© All rights reserved, Faie Turritopsis Dohrnii; Intergalatica/Dracchingan/Sens, Github,2025**  
+Licence :  
+- Les documents et templates peuvent être utilisés à titre personnel ou professionnel (usage commercial autorisé).  
+- Il est **strictement interdit de revendre, redistribuer ou proposer à la vente** tout ou partie de ce projet.  
+- Attribution obligatoire : mentionner **@Dracchingan/Sens** dans toute copie ou dérivation.  
+- Partage de modifications autorisé uniquement si la version dérivée respecte les mêmes conditions.  
+
+- Scripts / fonctions : Apache Licence 2.0  
+  → Attribution obligatoire  
+  → Usage libre (modification autorisée), mais la redistribution payante du projet complet est interdite.
+
+⚠️ Attention :
+- Feuilles de calcul sans agrément officiel
+- Ne pas mettre en ligne d’informations personnelles sensibles
+- Conçu avec l’aide de ChatGPT
