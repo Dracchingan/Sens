@@ -4,7 +4,7 @@ Le projet Sens est constitué de feuilles de calcul / templates / modèles Googl
 + Remplace un logiciel de comptabilité.  
 + Présence d'un sommaire par dossier 🏠 pareil à un logiciel.  
 + Avec fonctions et rappel du nom des cases du début du tableau, pour gain de temps en calculs et lecture. Les fonctions ignorent les cases vides et texte, pas besoin de mettre 0 partout, il y a aussi un rappel couleurs.   
-+ Imprimable sur feuille A4 format Paysage (Page 01: A à I, 1 à 30) pour vérification.  
++ Imprimable sur feuille A4 format Paysage (Page 01: A à I, 1 à 30) pour vérification. Et sans tableau infini, max 9 cases par page paysage.  
 + Compatibles impôts personnels et entreprise en France. Le premier programme avec cases d'impôts françaises et logique d'imposition française. Car 99% des outils de comptabilité gratuits et payants sont des programmes pour les pays anglophones traduits en français et il n'y a aucun rapport avec ce qu'on doit déclarer en France sauf la langue.
 + Compatible lecture et écriture humaine, pas lecture et écriture machine, pas de tableaux infinis incompréhensibles.
 + Compatible sauvegarde incrémentielle sur le cloud de Google Workspace / Google Docs / Google Sheets donc édition sur téléphone et tablette.
