@@ -8,7 +8,8 @@ Le projet Sens est constitué de feuilles de calcul / templates / modèles Googl
 + Compatibles impôts personnels et entreprise en France. Le premier programme avec cases d'impôts françaises et logique d'imposition française. Car 99% des outils de comptabilité gratuits et payants sont des programmes pour les pays anglophones traduits en français et il n'y a aucun rapport avec ce qu'on doit déclarer en France sauf la langue.
 + Compatible lecture et écriture humaine, pas lecture et écriture machine, pas de tableaux infinis incompréhensibles.
 + Compatible sauvegarde incrémentielle sur le cloud de Google Workspace / Google Docs / Google Sheets donc édition sur téléphone et tablette.
-+ Made in France. 
++ Made in France.
+## Conseils:  
 ++ Format .ODS pour Google Sheets, ne pas modifier le fichier sur l'ordinateur sinon les formules cassent, l'importer tel quel.  
 ++ Google Docs > Fichier > Importer pour disponibiliser pour soi à tout moment sa comptabilité.  
 ++ Google Docs > Fichier > Télécharger > ODS pour sauvegarder hors ligne en format importable ODS, il est déconseillé d'éditer car cela casse les formules.  
@@ -26,7 +27,7 @@ Le projet Sens est constitué de feuilles de calcul / templates / modèles Googl
 
   Bientõt disponible !!! 
 
-## Copyrights: Sens – Templates de comptabilité personnelle et auto-entrepreneur 
+## Copyrights: Sens – Templates de comptabilité personnelle et auto-entrepreneur  
 
 Personne physique : **© All rights reserved, @Dracchingan/Sens, Github, 2025**  
 Auto-entrepreneur : **© All rights reserved, Faie Turritopsis Dohrnii; Intergalatica/Dracchingan/Sens, Github,2025**  
@@ -38,9 +39,9 @@ Licence :
 
 - Scripts / fonctions : **Apache Licence 2.0**  
   → Attribution obligatoire  
-  → Usage libre (modification autorisée), mais la redistribution payante du projet complet est interdite.
+  → Usage libre (modification autorisée), mais la redistribution payante du projet complet est interdite.  
 
-⚠️ Attention :
-- Feuilles de calcul sans agrément officiel
-- Ne pas mettre en ligne d’informations personnelles sensibles
-- Conçu avec l’aide de ChatGPT
+⚠️ Attention :  
+- Feuilles de calcul sans agrément officiel  
+- Ne pas mettre en ligne d’informations personnelles sensibles  
+- Conçu avec l’aide de ChatGPT  
