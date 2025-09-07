@@ -7,7 +7,8 @@ Le projet Sens est constitué de feuilles de calcul / templates / modèles Googl
 + Imprimable sur feuille A4 format Paysage (Page 01: A à I, 1 à 30) pour vérification.  
 + Compatibles impôts personnels et entreprise en France. Le premier programme avec cases d'impôts françaises et logique d'imposition française. Car 99% des outils de comptabilité gratuits et payants sont des programmes pour les pays anglophones traduits en français et il n'y a aucun rapport avec ce qu'on doit déclarer en France sauf la langue.
 + Compatible lecture et écriture humaine, pas lecture et écriture machine, pas de tableaux infinis incompréhensibles.
-+ Compatible sauvegarde incrémentielle sur le cloud de Google Workspace / Google Docs / Google Sheets donc édition sur téléphone et tablette.   
++ Compatible sauvegarde incrémentielle sur le cloud de Google Workspace / Google Docs / Google Sheets donc édition sur téléphone et tablette.
++ Made in France. 
 ++ Format .ODS pour Google Sheets, ne pas modifier le fichier sur l'ordinateur sinon les formules cassent, l'importer tel quel.  
 ++ Google Docs > Fichier > Importer pour disponibiliser pour soi à tout moment sa comptabilité.  
 ++ Google Docs > Fichier > Télécharger > ODS pour sauvegarder hors ligne en format importable ODS, il est déconseillé d'éditer car cela casse les formules.  
