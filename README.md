@@ -41,7 +41,7 @@ Licence :
   → Attribution obligatoire  
   → Usage libre (modification autorisée), mais la redistribution payante du projet complet est interdite.
 
-  - Police choisie: Lato qui est distribuée sous la SIL Open Font License (OFL) 1.1. donc on peut l'inclure dans un projet personnel ou commercial. Ceci est un projet personnel à usage personnel ou commercial.
+- Police choisie: Lato qui est distribuée sous la SIL Open Font License (OFL) 1.1. donc on peut l'inclure dans un projet personnel ou commercial. Ceci est un projet personnel à usage personnel ou commercial.  
 
 ⚠️ Attention :  
 - Feuilles de calcul sans agrément officiel  
